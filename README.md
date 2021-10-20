@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Chiara Bodda
 - 👀 I’m interested in technology and innovation
-- 🌱 I’m currently learning python, mySQL and project management agile methodology
+- 🌱 I’m currently learning python, mySQL and project management agile methodology for technical projects
 - 📫 You can contact me on LinkedIn -> https://www.linkedin.com/in/maria-chiara-bodda/
 
 <!---
